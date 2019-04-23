@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/hardened_clay_stained_magenta_top",
+        "side": "block/hardened_clay_stained_magenta"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": [ { "model": "block/half_slab_dark_oak", "weight": 15 }, { "model": "block/half_slab_dark_oak1", "weight": 5 }, { "model": "block/half_slab_dark_oak2", "weight": 5 }, { "model": "block/half_slab_dark_oak3", "weight": 2 } ], 
+        "type=top": [ { "model": "block/upper_slab_dark_oak", "weight": 15 }, { "model": "block/upper_slab_dark_oak1", "weight": 5 }, { "model": "block/upper_slab_dark_oak2", "weight": 5 }, { "model": "block/upper_slab_dark_oak3", "weight": 2 } ],
+		"type=double": { "model": "block/dark_oak_planks" }
+    }
+}

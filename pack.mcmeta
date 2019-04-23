@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"pack_format": 4,
+		"description": "A community 32x32 pack."
+	},
+	"language":{
+		"en_ld":{
+			"name":"LAST DAYS",
+			"region":"The Wastes",
+			"bidirectional":false
+		}
+	}
+}

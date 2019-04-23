@@ -1,0 +1,22 @@
+﻿{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/wheat_stage_7",
+		"1": "block/wheat_top",
+		"particle": "block/wheat_stage_6"
+	},
+	"elements": [
+		{
+			"from": [4, -1, 4],
+			"to": [12, 15, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 16], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [4, 0, 12, 16], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [4, 0, 12, 16], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#missing", "cullface": "down"}
+			}
+		}
+	]
+}
