@@ -10,4 +10,4 @@ LAST DAYS
 * **Discord**
  * Join our discord [here](https://discord.gg/QDXhjWx)!
 * **Downloads:**
- * [Home Page for Downloads and Info](http://sukar42.github.io/LAST_DAYS/)
+ * [Home Page for Downloads and Info](https://krulunio.github.io/last_days/)
