@@ -1,5 +1,5 @@
 {
-    "parent": "item/tool_alt",
+    "parent": "item/handheld",
     "textures": {
         "layer0": "item/diamond_shovel"
     }
