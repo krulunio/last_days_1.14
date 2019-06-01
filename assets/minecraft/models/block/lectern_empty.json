@@ -10,7 +10,7 @@
     "textures": {
         "particle": "block/lectern_base",
         "base": "block/lectern_base",
-        "front": "block/lectern_front",
+        "front": "block/lectern_front_empty",
         "sides": "block/lectern_sides",
         "sides_bottom": "block/lectern_sides_bottom",
         "top": "block/lectern_top"
