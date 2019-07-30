@@ -1,5 +1,0 @@
-{
-    "variants": {
-        "": [ { "model": "block/orange_tulip", "weight": 3 }, { "model": "block/orange_tulip1", "weight": 3 } ]
-    }
-}

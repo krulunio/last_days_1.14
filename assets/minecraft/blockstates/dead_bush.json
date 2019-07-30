@@ -1,5 +1,0 @@
-{
-    "variants": {
-        "": [ { "model": "block/dead_bush", "weight": 3 }, { "model": "block/dead_bush1", "weight": 3 } ]
-    }
-}
