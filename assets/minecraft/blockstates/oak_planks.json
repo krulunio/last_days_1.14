@@ -1,0 +1,15 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/oak_planks/oak_planks1", "weight": 20 },   
+			{ "model": "block/oak_planks/oak_planks2", "weight": 12 }, 
+			{ "model": "block/oak_planks/oak_planks3", "weight": 8 }, 
+			{ "model": "block/oak_planks/oak_planks4", "weight": 7 }, 
+			{ "model": "block/oak_planks/oak_planks5", "weight": 7 }, 
+			{ "model": "block/oak_planks/oak_planks6", "weight": 12 },     
+			{ "model": "block/oak_planks/oak_planks7", "weight": 5 }, 
+			{ "model": "block/oak_planks/oak_planks8", "weight": 9 }, 
+			{ "model": "block/oak_planks/oak_planks9", "weight": 12 }
+		]
+	}
+}

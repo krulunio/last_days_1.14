@@ -1,0 +1,21 @@
+{
+    "textures": {
+        "particle": "block/diorite/diorite6",
+		"wall": "block/diorite/diorite6",
+		"top": "block/diorite_wall_top"
+    },
+    "elements": [
+        {   "from": [ 5, -0.1, 0 ],
+            "to": [ 11, 14, 8 ],
+            "faces": {
+                "down":  { "texture": "#top" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#wall", "uv": [0,0,16,16] },
+                "south": { "texture": "#wall", "uv": [0,0,16,16] },
+                "west":  { "texture": "#wall", "uv": [0,0,8,16] },
+                "east":  { "texture": "#wall", "uv": [8,0,16,16] }
+            },
+            "__comment": "wall"
+        }
+    ]
+}

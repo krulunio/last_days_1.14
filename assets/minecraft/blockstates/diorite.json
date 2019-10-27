@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/diorite/diorite1", "weight": 25 },
+			{ "model": "block/diorite/diorite2", "weight": 10 },
+			{ "model": "block/diorite/diorite3", "weight": 5 },
+			{ "model": "block/diorite/diorite4", "weight": 5 },
+			{ "model": "block/diorite/diorite5", "weight": 5 },
+			{ "model": "block/diorite/diorite6", "weight": 5 }
+		]
+    }
+}
