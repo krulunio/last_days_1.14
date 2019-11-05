@@ -20,9 +20,15 @@
 §7Music and sound:
 §f			HalphPrice
 §f			Gizka
+§f			NeoSpica
+§f			Gizka
+§f			psychedelic_hands
 
 §7Revival Thread by:
 §f			DerekSmith
+
+§7Overall development of pack by:
+§f			Last Days Discord server's members
 
 
 Thank you for downloading and being a part of this amazing community,
