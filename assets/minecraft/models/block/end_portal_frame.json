@@ -1,9 +1,9 @@
 {   "parent": "block/block",
     "textures": {
-        "particle": "block/endframe_side",
-        "bottom": "block/end_portail_bottom",
-        "top": "block/endframe_top",
-        "side": "block/endframe_side"
+        "particle": "block/end_portal_frame_side",
+        "bottom": "block/end_portal_frame_bottom",
+        "top": "block/end_portal_frame_top",
+        "side": "block/end_portal_frame_side"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

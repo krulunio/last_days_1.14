@@ -1,7 +1,0 @@
-{
-    "parent": "block/pane_side_alt",
-    "textures": {
-        "edge": "block/red_stained_glass_pane_top",
-        "pane": "block/red_stained_glass_pane"
-    }
-}

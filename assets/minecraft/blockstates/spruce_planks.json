@@ -1,0 +1,17 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/spruce_planks/spruce_planks1", "weight": 20 },   
+			{ "model": "block/spruce_planks/spruce_planks2", "weight": 12 }, 
+			{ "model": "block/spruce_planks/spruce_planks3", "weight": 8 }, 
+			{ "model": "block/spruce_planks/spruce_planks4", "weight": 7 }, 
+			{ "model": "block/spruce_planks/spruce_planks5", "weight": 8 }, 
+			{ "model": "block/spruce_planks/spruce_planks6", "weight": 8 },     
+			{ "model": "block/spruce_planks/spruce_planks7", "weight": 6 }, 
+			{ "model": "block/spruce_planks/spruce_planks8", "weight": 12 }, 
+			{ "model": "block/spruce_planks/spruce_planks9", "weight": 6 },
+			{ "model": "block/spruce_planks/spruce_planks10", "weight": 6 },
+			{ "model": "block/spruce_planks/spruce_planks11", "weight": 6 }
+		]
+	}
+}

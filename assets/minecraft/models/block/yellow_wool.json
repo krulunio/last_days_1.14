@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_column",
     "textures": {
-        "end": "block/wool_yellow_top",
-        "side": "block/wool_colored_yellow"
+        "end": "block/yellow_wool_top",
+        "side": "block/yellow_wool_side"
     }
 }

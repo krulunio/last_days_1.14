@@ -1,0 +1,39 @@
+{
+    "variants": {
+		"": [
+			{ "model": "block/quartz_block/quartz_block1",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block2",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block3",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block4",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block5",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block6",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block7",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block8",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block9",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block10",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block11",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block12",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block13",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block14",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block15",
+			"weight": 5 },
+			{ "model": "block/quartz_block/quartz_block16",
+			"weight": 5 }
+		]
+    }
+}
+

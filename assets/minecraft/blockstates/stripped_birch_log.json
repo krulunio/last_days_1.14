@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/stripped_birch/stripped_birch_log1", "weight": 1 },   
+			{ "model": "block/stripped_birch/stripped_birch_log2", "weight": 1 },   
+			{ "model": "block/stripped_birch/stripped_birch_log3", "weight": 1 }
+		]
+	}
+}

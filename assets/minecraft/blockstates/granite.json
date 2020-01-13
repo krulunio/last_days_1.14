@@ -1,5 +1,15 @@
 {
     "variants": {
-        "": [ { "model": "block/granite/granite", "weight": 25 }, { "model": "block/granite/granite1", "weight": 5 }, { "model": "block/granite/granite2", "weight": 10 }, { "model": "block/granite/granite3", "weight": 5 }, { "model": "block/granite/granite4", "weight": 5 }, { "model": "block/granite/granite5", "weight": 5 }, { "model": "block/granite/granite6", "weight": 5 }, { "model": "block/granite/granite7", "weight": 5 }, { "model": "block/granite/granite8", "weight": 5 }  ]
+        "": [
+			{ "model": "block/granite/granite1", "weight": 25 },
+			{ "model": "block/granite/granite2", "weight": 10 },
+			{ "model": "block/granite/granite3", "weight": 5 },
+			{ "model": "block/granite/granite4", "weight": 5 },
+			{ "model": "block/granite/granite5", "weight": 5 },
+			{ "model": "block/granite/granite6", "weight": 5 },
+			{ "model": "block/granite/granite7", "weight": 5 },
+			{ "model": "block/granite/granite8", "weight": 5 },
+			{ "model": "block/granite/granite9", "weight": 5 }
+		]
     }
 }
